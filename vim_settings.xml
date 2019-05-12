@@ -26,13 +26,6 @@
       <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_site/settings.py" timestamp="1557387915149">
         <mark key="[" line="22" column="64" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggling/gps_and_photo_sender.py" timestamp="1556989987807">
-        <mark key="'" line="164" column="97" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="21" column="15" />
-        <mark key="." line="21" column="15" />
-        <mark key="^" line="198" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/smuggling/eos_publisher.py" timestamp="1557257897175">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="54" column="0" />
@@ -48,14 +41,18 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_info/static/js/index.js" timestamp="1557659251005">
+        <mark key="[" line="12" column="31" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/smuggling/Esp8266_MQTT_smuggler/Esp8266_MQTT_smuggler.ino" timestamp="1553441421225">
         <mark key="[" line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggler_site/mainApp/views.py" timestamp="1557394070672">
+      <file name="$USER_HOME$/PycharmProjects/smuggler_site/mainApp/views.py" timestamp="1557658168816">
         <mark key="[" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_info/views.py" timestamp="1557391976559">
-        <mark key="[" line="0" column="35" />
+      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_info/views.py" timestamp="1557658191608">
+        <mark key="'" line="7" column="4" />
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/FirstTestProject/main1.py" timestamp="1547462732372">
         <mark key="[" line="33" column="49" />
@@ -112,7 +109,7 @@
         <mark key="." line="100" column="0" />
         <mark key="^" line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_site/urls.py" timestamp="1557392332563">
+      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_site/urls.py" timestamp="1557657393518">
         <mark key="[" line="22" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/smuggling/test12.py" timestamp="1556632042022">
@@ -177,7 +174,9 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_info/models.py" timestamp="1557654393781" />
+      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_info/models.py" timestamp="1557657825320">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/microblog/app/templates/user.html" timestamp="1548443244252">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="13" column="1" />
@@ -188,13 +187,6 @@
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
         <mark key="^" line="4" column="6" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggling/photo_taker.py" timestamp="1556874517656">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="79" column="39" />
-        <mark key="." line="79" column="0" />
       </file>
       <file name="/Django Console" timestamp="1557654259488">
         <mark key="[" line="0" column="0" />
@@ -239,7 +231,10 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggler_site/mainApp/templates/mainApp/wrapper.html" timestamp="1557395004137">
+      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_info/templates/smuggler_info/homePage.html" timestamp="1557658977351">
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/smuggler_site/mainApp/templates/mainApp/wrapper.html" timestamp="1557658869343">
         <mark key="[" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/FirstTestProject/kill_me_python_01.py" timestamp="1546954387135">
@@ -253,13 +248,6 @@
         <mark key="]" line="100" column="32" />
         <mark key="^" line="100" column="32" />
         <mark key="." line="100" column="32" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggling/photo_upload.py" timestamp="1556869212568">
-        <mark key="'" line="49" column="8" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="89" column="0" />
-        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/suvid/Esp8266_MQTT_Suvid/Esp8266_MQTT_Suvid.ino" timestamp="1551908552912">
         <mark key="[" line="12" column="28" />
@@ -283,6 +271,7 @@
       <jump line="47" column="8" filename="$USER_HOME$/PycharmProjects/smuggling/photo_upload.py" />
       <jump line="49" column="8" filename="$USER_HOME$/PycharmProjects/smuggling/photo_upload.py" />
       <jump line="164" column="97" filename="$USER_HOME$/PycharmProjects/smuggling/gps_and_photo_sender.py" />
+      <jump line="8" column="4" filename="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_info/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -292,7 +281,7 @@
         <text>#    sys.exit(1)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmludFw+</text>
+        <text encoding="base64">XDxyZXR1cm5cPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c2VyLndyaXRlKGJ5dGVzKCJBVCIgKyAiXHJcbiIsIGVuY29kaW5nPSd1dGYtOCcpKQp0aW1lLnNsZWVwKDEpCm91dCA9ICcnCndoaWxlIHNlci5pbldhaXRpbmcoKSA+IDA6CiAgICBvdXQgKz0gIiIuam9pbihtYXAoY2hyLCBzZXIucmVhZCgxKSkpICAjIHNlci5yZWFkKDEpLmRlY29kZSgpCmlmIG91dCAhPSAnJzoKICAgIHByaW50KCI+PiIgKyBvdXQpCnRpbWUuc2xlZXAoMSkK</text>
@@ -330,9 +319,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmludFw+</last-search>
+      <last-search encoding="base64">XDxyZXR1cm5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmludFw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZXR1cm5cPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -342,6 +331,7 @@
         <entry encoding="base64">XDxtcXR0X2hvc3RcPg==</entry>
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>6</entry>
