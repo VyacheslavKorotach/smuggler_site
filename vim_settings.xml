@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/PycharmProjects/smuggler_site/manage.py" timestamp="1557385601489">
         <mark key="[" line="20" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_position/urls.py" timestamp="1557738363728">
+      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_position/urls.py" timestamp="1557742399979">
         <mark key="[" line="4" column="26" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_site/settings.py" timestamp="1557661679821">
@@ -27,8 +27,12 @@
       <file name="$USER_HOME$/PycharmProjects/smuggling/Esp8266_MQTT_smuggler/Esp8266_MQTT_smuggler.ino" timestamp="1553441421225">
         <mark key="[" line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_position/views.py" timestamp="1557740517370">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_position/views.py" timestamp="1557742968175">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/smuggler_site/mainApp/views.py" timestamp="1557658168816">
         <mark key="[" line="2" column="25" />
@@ -54,7 +58,7 @@
       <file name="$USER_HOME$/PycharmProjects/smuggler_site/mainApp/urls.py" timestamp="1557393868238">
         <mark key="[" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_position/models.py" timestamp="1557737383032">
+      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_position/models.py" timestamp="1557741153471">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -117,12 +121,12 @@
       <file name="$USER_HOME$/PycharmProjects/FirstTestProject/updatedb.py" timestamp="1547547899884">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_position/templates/smuggler_position/zonendetail.html" timestamp="1557737675965">
+      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_position/templates/smuggler_position/zonendetail.html" timestamp="1557743252096">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_info/templates/smuggler_info/homePage.html" timestamp="1557658977351">
+      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_info/templates/smuggler_info/homePage.html" timestamp="1557743388034">
         <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/smuggler_site/mainApp/templates/mainApp/wrapper.html" timestamp="1557658869343">
@@ -140,6 +144,7 @@
       <jump line="49" column="8" filename="$USER_HOME$/PycharmProjects/smuggling/photo_upload.py" />
       <jump line="164" column="97" filename="$USER_HOME$/PycharmProjects/smuggling/gps_and_photo_sender.py" />
       <jump line="8" column="4" filename="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_info/views.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_position/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -149,7 +154,7 @@
         <text>infowindow.open(map, marker1);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXR1cm5cPg==</text>
+        <text encoding="base64">XDxkZWZcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">c2VyLndyaXRlKGJ5dGVzKCJBVCIgKyAiXHJcbiIsIGVuY29kaW5nPSd1dGYtOCcpKQp0aW1lLnNsZWVwKDEpCm91dCA9ICcnCndoaWxlIHNlci5pbldhaXRpbmcoKSA+IDA6CiAgICBvdXQgKz0gIiIuam9pbihtYXAoY2hyLCBzZXIucmVhZCgxKSkpICAjIHNlci5yZWFkKDEpLmRlY29kZSgpCmlmIG91dCAhPSAnJzoKICAgIHByaW50KCI+PiIgKyBvdXQpCnRpbWUuc2xlZXAoMSkK</text>
@@ -193,9 +198,9 @@ class PointOfInterest(models.Model):
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXR1cm5cPg==</last-search>
+      <last-search encoding="base64">XDxkZWZcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXR1cm5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkZWZcPg==</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -206,6 +211,7 @@ class PointOfInterest(models.Model):
         <entry encoding="base64">XDxpZlw+</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+        <entry encoding="base64">XDxkZWZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>6</entry>
