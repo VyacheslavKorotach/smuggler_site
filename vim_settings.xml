@@ -72,7 +72,7 @@
       <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_position/admin.py" timestamp="1557746690928">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_info/static/js/lorry.js" timestamp="1557744340128">
+      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_info/static/js/lorry.js" timestamp="1557747404780">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="80" column="8" />
         <mark key="." line="80" column="8" />
@@ -132,10 +132,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_info/templates/smuggler_info/homePage.html" timestamp="1557745520952">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_info/templates/smuggler_info/homePage.html" timestamp="1557747969614">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/smuggler_site/mainApp/templates/mainApp/wrapper.html" timestamp="1557658869343">
         <mark key="[" line="4" column="17" />
@@ -155,11 +155,11 @@
       <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_position/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwhc2NyaXB0ICBzcmM9InslIHN0YXRpYyAnanMvbG9ycnkuanMnICV9Ij48IS9zY3JpcHQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{% endfor %}</text>
       </register>
       <register name="-" type="4">
-        <text>infowindow.open(map, marker1);</text>
+        <text>{% endfor %}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWZcPg==</text>
@@ -168,38 +168,31 @@
         <text encoding="base64">c2VyLndyaXRlKGJ5dGVzKCJBVCIgKyAiXHJcbiIsIGVuY29kaW5nPSd1dGYtOCcpKQp0aW1lLnNsZWVwKDEpCm91dCA9ICcnCndoaWxlIHNlci5pbldhaXRpbmcoKSA+IDA6CiAgICBvdXQgKz0gIiIuam9pbihtYXAoY2hyLCBzZXIucmVhZCgxKSkpICAjIHNlci5yZWFkKDEpLmRlY29kZSgpCmlmIG91dCAhPSAnJzoKICAgIHByaW50KCI+PiIgKyBvdXQpCnRpbWUuc2xlZXAoMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhc2NyaXB0ICBzcmM9InslIHN0YXRpYyAnanMvbG9ycnkuanMnICV9Ij48IS9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">CX0pOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQlpbmZvd2luZG93Lm9wZW4obWFwLCBtYXJrZXIxKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>from django.db import models
-from geoposition.fields import GeopositionField
-
-
-class PointOfInterest(models.Model):
-    name = models.CharField(max_length=100)
-    position = GeopositionField()</text>
+      <register name="3" type="2">
+        <text encoding="base64">CW1hcmtlcjEuYWRkTGlzdGVuZXIoJ2NsaWNrJywgZnVuY3Rpb24oKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxwPml0J3MgYmxvY2sgaW5jbHVkZWQgd2l0aCBpbmNsdWRlLjwvcD4K</text>
+        <text encoding="base64">CQkvLyDQodC+0LfQtNCw0LXQvCDQv9GA0L7RgdC70YPRiNC40LLQsNC90LjQtSwg0L/QviDQutC70LjQutGDINC90LAg0LzQsNGA0LrQtdGAIC0g0L7RgtC60YDRi9GC0Ywg0LjQvdGE0L4t0L7QutC90L4gaW5mb3dpbmRvdwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHslIGluY2x1ZGUgIm1haW5BcHAvaW5jbHVkZXMvc29tZV9odG1sLmh0bWwiICV9Cg==</text>
+        <text encoding="base64">CX0pOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+</text>
+      <register name="6" type="2">
+        <text encoding="base64">CSAgICBpY29uOiAnaHR0cDovL2tvcm90YWNoLmNvbS9sb3JyeS01Mi5wbmcnCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>,
-    path('smuggler_info/', include('smuggler_info.urls')),</text>
+      <register name="7" type="2">
+        <text encoding="base64">CSAgICAvLyBpY29uOiAnaHR0cDovL3JpZ2h0YmxvZy5ydS93cC1jb250ZW50L3VwbG9hZHMvMjAxNi8wNy90aGVhdHJlX2ljb24ucG5nJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdyZWNlaXZlciA9ICcsIHNbJ2FjdGlvbl90cmFjZSddWydyZWNlaXB0J11bJ3JlY2VpdmVyJ10pCg==</text>
+        <text encoding="base64">CSAgICAvLyDQo9C60LDQttC10Lwg0YHQstC+0Y4g0LjQutC+0L3QutGDINC00LvRjyDQvNCw0YDQutC10YDQsAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGlmIHMgPSAnYWN0aW9uX3RyYWNlJzoKICAgIGZvciBzMSBpbiBzOgogICAgICAgIHByaW50KCctLT4nLCBzMSkKICAgICAgICBpbnB1dCgpCiAgICAgICAgZm9yIHMyIGluIHMxWydhY3Rpb25fdHJhY2UnXToKICAgICAgICAgICAgcHJpbnQoJy0tLS0tLT4nLCBzMikKICAgIGlucHV0KCk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
