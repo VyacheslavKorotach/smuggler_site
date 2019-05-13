@@ -87,7 +87,7 @@
       <file name="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_position/admin.py" timestamp="1557746690928">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggler_info/smuggler_last_positions/templates/smuggler_last_positions/last_positions.html" timestamp="1557764993124">
+      <file name="$USER_HOME$/PycharmProjects/smuggler_info/smuggler_last_positions/templates/smuggler_last_positions/last_positions.html" timestamp="1557772531262">
         <mark key="[" line="35" column="20" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -117,7 +117,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggler_info/smuggler_info/settings.py" timestamp="1557754851585">
+      <file name="$USER_HOME$/PycharmProjects/smuggler_info/smuggler_info/settings.py" timestamp="1557771457619">
         <mark key="[" line="122" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/FirstTestProject/mytimer.py" timestamp="1547205407448">
@@ -132,10 +132,10 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="7" column="14" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/smuggler_info/smuggler_last_positions/views.py" timestamp="1557770112421">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/smuggler_info/smuggler_last_positions/views.py" timestamp="1557772360994">
+        <mark key="[" line="31" column="43" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/microblog/app/models.py" timestamp="1548010715097">
         <mark key="[" line="0" column="0" />
@@ -212,8 +212,8 @@
       <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/smuggler_site/smuggler_position/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgb3V0MzYgPSB7fQogICAgICAgIG91dDM3ID0ge30=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAgICBvdXQzNyA9IG91dDM2WydhY3Rpb25zJ10K</text>
       </register>
       <register name="-" type="4">
         <text>d = json.loads(data['memo'])</text>
@@ -224,29 +224,29 @@
       <register name="0" type="4">
         <text encoding="base64">c2VyLndyaXRlKGJ5dGVzKCJBVCIgKyAiXHJcbiIsIGVuY29kaW5nPSd1dGYtOCcpKQp0aW1lLnNsZWVwKDEpCm91dCA9ICcnCndoaWxlIHNlci5pbldhaXRpbmcoKSA+IDA6CiAgICBvdXQgKz0gIiIuam9pbihtYXAoY2hyLCBzZXIucmVhZCgxKSkpICAjIHNlci5yZWFkKDEpLmRlY29kZSgpCmlmIG91dCAhPSAnJzoKICAgIHByaW50KCI+PiIgKyBvdXQpCnRpbWUuc2xlZXAoMSkK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">IyAgICBvdXQzNyA9IG91dDM2WydhY3Rpb25zJ10K</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgb3V0MzYgPSB7fQogICAgICAgIG91dDM3ID0ge30=</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICMgICAgcmV0dXJuIHJlbmRlcl90b19yZXNwb25zZSgnc211Z2dsZXJfbGFzdF9wb3NpdGlvbnMvbGFzdF9wb3NpdGlvbnMuaHRtbCcsIHsibWFya19saXN0IjogbWFya3N9LCB7ImNlbnRyYWxfbGF0aXR1ZGUiOiBjZW50cmFsX2xhdGl0dWRlfSwgeyJjZW50cmFsX2xvbmdpdHVkZSI6IGNlbnRyYWxfbG9uZ2l0dWRlfSkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaW50KG1hcmtzKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICMgICAgY2VudHJhbF9sb25naXR1ZGUgPSBtYXJrc1swXVsnbG9uZ2l0dWRlJ10K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICMgICAgY2VudHJhbF9sYXRpdHVkZSA9IG1hcmtzWzBdWydsYXRpdHVkZSddCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICMgICAgbWFya3MgPSBbeyJsYXRpdHVkZSI6ICI1MC40Mzg0NDEiLCAibG9uZ2l0dWRlIjogIjMwLjQxNzQ0OCJ9LCB7ImxhdGl0dWRlIjogIjUwLjQzODE0MSIsICJsb25naXR1ZGUiOiAiMzAuNDE3NDQ4In1dCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgICAgICBmLndyaXRlKGRhdGFbJ21lbW8nXSArICdcbicpCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgICAgICAgICAgICBmLndyaXRlKGRhdGFbJ21lbW8nXSArICdcbicpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
